@@ -1,0 +1,28 @@
+
+
+2025-08-06T08:53:25.965Z = Application started
+    
+2025-08-06T08:53:25.966Z = Application event occured
+    
+2025-08-06T08:53:28.965Z = Current memory usage : 53.44%
+    
+2025-08-06T08:53:31.970Z = Current memory usage : 53.34%
+    
+2025-08-06T08:53:34.972Z = Current memory usage : 53.42%
+    
+2025-08-06T08:53:37.980Z = Current memory usage : 53.09%
+    
+2025-08-06T08:53:40.986Z = Current memory usage : 52.82%
+    
+2025-08-06T08:53:43.993Z = Current memory usage : 52.92%
+    
+2025-08-06T08:53:46.993Z = Current memory usage : 53.00%
+    
+2025-08-06T08:53:49.997Z = Current memory usage : 53.93%
+    
+2025-08-06T08:53:53.005Z = Current memory usage : 53.84%
+    
+2025-08-06T08:53:56.011Z = Current memory usage : 54.03%
+    
+2025-08-06T08:53:59.020Z = Current memory usage : 53.95%
+    
