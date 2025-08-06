@@ -1,11 +1,13 @@
 const fs = require("fs");
 const filePath = "./tasks.json";
-
+// we are editing
 // essentially we are using the nodejs file handling properties
 //so like "fs" means that and tasks json cmon we learnt stringify
 //api needs that json translation to store values and all so we are
-//storing it in a seperate file 
-
+//storing it in a seperate file ...
+//some
+//edits
+//before
 
 const loadTasks = () => {
   try {
@@ -35,7 +37,7 @@ const addTask = (task) => {
   const tasks = loadTasks();
   tasks.push({ task });
   saveTasks(tasks);
-  console.log("Task added", task);
+  console.log("Task added successfully", task);
 };
 
 //we are first loading the tasks to get the current array
